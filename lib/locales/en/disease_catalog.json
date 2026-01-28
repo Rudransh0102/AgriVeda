@@ -1,0 +1,1795 @@
+{
+  "version": 2,
+  "diseases": [
+    {
+      "id": "Jackfruit___Algal_Leaf_Spot",
+      "name": "Algal Leaf Spot",
+      "crop": "Jackfruit",
+      "type": "disease",
+      "introduction": "A fungal-like disease forming dark greenish-black spots on Jackfruit leaves, reducing photosynthesis and weakening the plant.",
+      "symptoms": [
+        "Small dark green spots on leaves.",
+        "Spots enlarge and turn black.",
+        "Leaves may yellow and fall prematurely."
+      ],
+      "immediateActions": [
+        "Remove and destroy infected leaves.",
+        "Avoid overhead irrigation to reduce moisture on leaves."
+      ],
+      "naturalControl": [
+        "Spray neem oil to prevent fungal growth.",
+        "Use compost teas to enhance plant resistance."
+      ],
+      "chemicalControl": [
+        "Apply copper-based fungicides weekly during humid conditions.",
+        "Use Mancozeb sprays as a preventive measure."
+      ],
+      "prevention": [
+        "Maintain proper spacing between trees for airflow.",
+        "Regularly monitor leaves for early signs of infection."
+      ]
+    },
+    {
+      "id": "Mango___Anthracnose",
+      "name": "Anthracnose",
+      "crop": "Mango",
+      "type": "disease",
+      "introduction": "A common fungal disease causing black spots on leaves, flowers, and fruits, leading to reduced yield.",
+      "symptoms": [
+        "Small black spots on leaves and fruit.",
+        "Leaves may curl and die.",
+        "Fruit develops sunken black lesions."
+      ],
+      "immediateActions": [
+        "Remove infected flowers and leaves.",
+        "Prune affected branches."
+      ],
+      "naturalControl": [
+        "Spray neem oil regularly.",
+        "Ensure proper sunlight and airflow."
+      ],
+      "chemicalControl": [
+        "Apply copper fungicides during flowering and early fruiting.",
+        "Use systemic fungicides like Difenoconazole if severe."
+      ],
+      "prevention": [
+        "Avoid wetting flowers and fruits excessively.",
+        "Maintain tree health with proper fertilization."
+      ]
+    },
+    {
+      "id": "Cotton___Aphids",
+      "name": "Aphids",
+      "crop": "Cotton",
+      "type": "disease",
+      "introduction": "Sap-sucking insects that feed on cotton leaves, reducing plant vigor and transmitting viral diseases.",
+      "symptoms": [
+        "Curling and yellowing of young leaves.",
+        "Sticky honeydew on leaves attracting sooty mold.",
+        "Stunted plant growth."
+      ],
+      "immediateActions": [
+        "Spray water to knock off aphids.",
+        "Remove heavily infested leaves if possible."
+      ],
+      "naturalControl": [
+        "Introduce ladybugs or lacewings.",
+        "Spray neem oil or garlic extract."
+      ],
+      "chemicalControl": [
+        "Use insecticidal soaps or imidacloprid if infestation is high.",
+        "Avoid broad-spectrum insecticides that kill beneficial insects."
+      ],
+      "prevention": [
+        "Monitor seedlings regularly for aphid presence.",
+        "Plant resistant cotton varieties."
+      ]
+    },
+    {
+      "id": "Apple___Apple_scab",
+      "name": "Apple Scab",
+      "crop": "Apple",
+      "type": "disease",
+      "introduction": "A fungal disease causing scabby spots on leaves and fruits, making apples cracked and deformed.",
+      "symptoms": [
+        "Olive-green velvety spots on leaves.",
+        "Leaves turn yellow and drop early.",
+        "Fruit develops rough, scabby, dark spots.",
+        "Cracking of fruit skin."
+      ],
+      "immediateActions": [
+        "Rake and destroy fallen leaves to reduce overwintering spores.",
+        "Prune trees to open canopy for sunlight and air."
+      ],
+      "naturalControl": [
+        "Apply organic liquid copper soap sprays before symptoms appear.",
+        "Use sulfur sprays preventively.",
+        "Plant resistant varieties like Honeycrisp or Liberty."
+      ],
+      "chemicalControl": [
+        "Apply fungicides containing Captan or Myclobutanil early in season.",
+        "Spray Mancozeb protectively before rain events.",
+        "Use systemic fungicides during rapid leaf growth."
+      ],
+      "prevention": [
+        "Water in the morning to allow leaves to dry.",
+        "Avoid overcrowding trees."
+      ]
+    },
+    {
+      "id": "Cotton___Bacterial_Blight",
+      "name": "Bacterial Blight",
+      "crop": "Cotton",
+      "type": "disease",
+      "introduction": "Also known as 'Black Arm', this bacterial disease attacks all parts of the cotton plant causing seedling blight and boll rot.",
+      "symptoms": [
+        "Angular water-soaked spots on leaves.",
+        "Veins turn black.",
+        "Bolls rot and do not open properly.",
+        "Stem lesions (Black Arm)."
+      ],
+      "immediateActions": [
+        "Remove infected crop residue immediately.",
+        "Do not save seeds from infected plants."
+      ],
+      "naturalControl": [
+        "Soak seeds in cow urine or hot water before sowing.",
+        "Spray neem oil to control insect vectors.",
+        "Use biocontrol agents like Pseudomonas fluorescens."
+      ],
+      "chemicalControl": [
+        "Spray Copper Oxychloride mixed with Streptocycline.",
+        "Seed treatment with antibiotics (Streptomycin).",
+        "Apply Bordeaux mixture on stems."
+      ],
+      "prevention": [
+        "Use acid-delinted seeds.",
+        "Grow resistant varieties."
+      ]
+    },
+    {
+      "id": "Mango___Bacterial_Canker",
+      "name": "Bacterial Canker",
+      "crop": "Mango",
+      "type": "disease",
+      "introduction": "Bacterial infection causing sunken cankers on branches, stems, and fruits, reducing yield and tree vigor.",
+      "symptoms": [
+        "Sunken lesions on branches.",
+        "Gum exudation from infected areas.",
+        "Fruit rot and leaf yellowing."
+      ],
+      "immediateActions": [
+        "Prune and burn infected branches.",
+        "Disinfect pruning tools."
+      ],
+      "naturalControl": [
+        "Apply neem oil to affected areas.",
+        "Promote healthy soil microbes."
+      ],
+      "chemicalControl": [
+        "Spray copper-based bactericides weekly during rainy season.",
+        "Use antibiotics like Streptocycline in extreme cases."
+      ],
+      "prevention": [
+        "Avoid injuring trees.",
+        "Maintain proper spacing between trees."
+      ]
+    },
+    {
+      "id": "Pumpkin___Bacterial_Leaf_Spot",
+      "name": "Bacterial Leaf Spot",
+      "crop": "Pumpkin",
+      "type": "disease",
+      "introduction": "Bacterial leaf spot causes dark, water-soaked lesions on leaves and fruit, reducing photosynthesis and quality.",
+      "symptoms": [
+        "Small dark water-soaked spots on leaves.",
+        "Leaves may yellow and die.",
+        "Fruit develops dark, sunken spots."
+      ],
+      "immediateActions": [
+        "Remove infected leaves.",
+        "Avoid overhead irrigation."
+      ],
+      "naturalControl": [
+        "Spray neem oil on leaves.",
+        "Use compost tea to boost plant immunity."
+      ],
+      "chemicalControl": [
+        "Apply copper-based bactericides regularly.",
+        "Use streptomycin sprays if severe."
+      ],
+      "prevention": [
+        "Use certified disease-free seeds.",
+        "Maintain proper field hygiene."
+      ]
+    },
+    {
+      "id": "Peach___Bacterial_spot",
+      "name": "Bacterial Spot",
+      "crop": "Peach",
+      "type": "disease",
+      "introduction": "Bacterial spot causes dark, raised lesions on leaves and fruit, affecting photosynthesis and fruit quality.",
+      "symptoms": [
+        "Small dark raised spots on leaves and fruits.",
+        "Leaves may yellow and fall.",
+        "Fruit may crack and rot."
+      ],
+      "immediateActions": [
+        "Remove infected leaves and fruit.",
+        "Prune affected branches."
+      ],
+      "naturalControl": [
+        "Spray neem oil.",
+        "Encourage natural predators."
+      ],
+      "chemicalControl": [
+        "Apply copper-based sprays.",
+        "Use streptomycin if severe."
+      ],
+      "prevention": [
+        "Plant resistant varieties.",
+        "Maintain good sanitation."
+      ]
+    },
+    {
+      "id": "Pepper___Bacterial_spot",
+      "name": "Bacterial Spot",
+      "crop": "Pepper, bell",
+      "type": "disease",
+      "introduction": "Bacterial disease causing dark spots on leaves and fruits, reducing photosynthesis and yield.",
+      "symptoms": [
+        "Water-soaked spots on leaves.",
+        "Fruit develops dark lesions.",
+        "Leaves may drop prematurely."
+      ],
+      "immediateActions": [
+        "Remove and destroy infected leaves and fruits.",
+        "Avoid overhead watering."
+      ],
+      "naturalControl": [
+        "Spray neem oil.",
+        "Encourage beneficial microbes."
+      ],
+      "chemicalControl": [
+        "Apply copper-based bactericides regularly.",
+        "Use streptomycin sprays if severe."
+      ],
+      "prevention": [
+        "Use certified seeds.",
+        "Maintain proper plant spacing."
+      ]
+    },
+    {
+      "id": "Tomato___Bacterial_spot",
+      "name": "Bacterial Spot",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "Bacterial disease causing dark lesions on leaves, stems, and fruits, affecting growth and yield.",
+      "symptoms": [
+        "Dark water-soaked spots on leaves and fruits.",
+        "Leaves may yellow and fall.",
+        "Fruit cracking and rot."
+      ],
+      "immediateActions": [
+        "Remove infected leaves and fruits.",
+        "Prune affected stems."
+      ],
+      "naturalControl": [
+        "Spray neem oil.",
+        "Use beneficial microorganisms."
+      ],
+      "chemicalControl": [
+        "Copper-based sprays weekly.",
+        "Use antibiotics if severe."
+      ],
+      "prevention": [
+        "Plant resistant varieties.",
+        "Keep field clean from debris."
+      ]
+    },
+    {
+      "id": "Sugarcane___BacterialBlights",
+      "name": "Bacterial Blights",
+      "crop": "Sugarcane",
+      "type": "disease",
+      "introduction": "Bacterial blights cause lesions on leaves and stems, reducing photosynthesis and yield.",
+      "symptoms": [
+        "Yellowing and wilting of leaves.",
+        "Dark streaks on stems.",
+        "Leaf lesions expand and merge."
+      ],
+      "immediateActions": [
+        "Remove infected crop residues.",
+        "Avoid waterlogging fields."
+      ],
+      "naturalControl": [
+        "Spray neem oil.",
+        "Encourage soil beneficial microbes."
+      ],
+      "chemicalControl": [
+        "Use copper-based bactericides.",
+        "Apply streptomycin if severe."
+      ],
+      "prevention": [
+        "Use disease-free planting material.",
+        "Maintain proper field hygiene."
+      ]
+    },
+    {
+      "id": "Cauliflower___Black_Rot",
+      "name": "Black Rot",
+      "crop": "Cauliflower",
+      "type": "disease",
+      "introduction": "A bacterial disease causing yellow V-shaped lesions on leaves that expand and rot the head.",
+      "symptoms": [
+        "Yellow V-shaped lesions on leaf margins.",
+        "Blackening of veins.",
+        "Rotting of curd."
+      ],
+      "immediateActions": [
+        "Remove infected leaves.",
+        "Ensure proper drainage."
+      ],
+      "naturalControl": [
+        "Spray neem oil or biofertilizers.",
+        "Rotate crops to reduce bacteria in soil."
+      ],
+      "chemicalControl": [
+        "Use copper-based bactericides weekly.",
+        "Apply streptomycin if necessary."
+      ],
+      "prevention": [
+        "Use certified seeds.",
+        "Avoid wetting leaves excessively."
+      ]
+    },
+    {
+      "id": "Jackfruit___Black_Spot",
+      "name": "Black Spot",
+      "crop": "Jackfruit",
+      "type": "disease",
+      "introduction": "Fungal disease causing black spots on leaves and fruits, affecting photosynthesis and fruit quality.",
+      "symptoms": [
+        "Black spots on leaves.",
+        "Leaves may yellow and drop.",
+        "Fruit develops black patches."
+      ],
+      "immediateActions": [
+        "Remove infected leaves and fruits.",
+        "Prune infected branches."
+      ],
+      "naturalControl": [
+        "Spray neem oil regularly.",
+        "Encourage beneficial microbes."
+      ],
+      "chemicalControl": [
+        "Apply copper-based fungicides weekly.",
+        "Use Mancozeb as preventive."
+      ],
+      "prevention": [
+        "Maintain proper spacing and airflow.",
+        "Monitor regularly for early signs."
+      ]
+    },
+    {
+      "id": "Apple___Black_rot",
+      "name": "Black Rot",
+      "crop": "Apple",
+      "type": "disease",
+      "introduction": "Fungal disease that affects leaves, fruits, and branches, causing fruit rot and leaf spotting.",
+      "symptoms": [
+        "Circular black spots on leaves.",
+        "Fruits rot and become mummified.",
+        "Branches may develop cankers."
+      ],
+      "immediateActions": [
+        "Remove infected leaves and fruits.",
+        "Prune and burn affected branches."
+      ],
+      "naturalControl": [
+        "Spray neem oil or biofungicides.",
+        "Apply compost teas for soil health."
+      ],
+      "chemicalControl": [
+        "Use copper fungicides.",
+        "Apply systemic fungicides like Difenoconazole."
+      ],
+      "prevention": [
+        "Plant resistant varieties.",
+        "Maintain orchard hygiene."
+      ]
+    },
+    {
+      "id": "Grape___Black_rot",
+      "name": "Black Rot",
+      "crop": "Grape",
+      "type": "disease",
+      "introduction": "Fungal disease causing black spots on leaves and berries, leading to fruit drop.",
+      "symptoms": [
+        "Dark circular lesions on leaves.",
+        "Berries develop black rot.",
+        "Leaves may yellow and drop."
+      ],
+      "immediateActions": [
+        "Remove infected leaves and berries.",
+        "Prune and dispose of affected branches."
+      ],
+      "naturalControl": [
+        "Spray neem oil or biofungicides.",
+        "Ensure good air circulation."
+      ],
+      "chemicalControl": [
+        "Apply copper-based fungicides.",
+        "Use systemic fungicides if severe."
+      ],
+      "prevention": [
+        "Plant resistant varieties.",
+        "Maintain vineyard hygiene."
+      ]
+    },
+    {
+      "id": "Rice___Brown_Spot",
+      "name": "Brown Spot",
+      "crop": "Rice",
+      "type": "disease",
+      "introduction": "Fungal disease affecting rice leaves, causing brown spots and reduced photosynthesis.",
+      "symptoms": [
+        "Small brown lesions on leaves.",
+        "Spots enlarge and coalesce.",
+        "Leaves may dry and fall prematurely."
+      ],
+      "immediateActions": [
+        "Remove severely infected leaves.",
+        "Avoid overhead irrigation."
+      ],
+      "naturalControl": [
+        "Spray neem oil regularly.",
+        "Enhance soil microbial activity."
+      ],
+      "chemicalControl": [
+        "Apply copper fungicides or Carbendazim.",
+        "Use systemic fungicides if necessary."
+      ],
+      "prevention": [
+        "Plant resistant rice varieties.",
+        "Maintain proper field hygiene."
+      ]
+    },
+    {
+      "id": "Apple___Cedar_apple_rust",
+      "name": "Cedar Apple Rust",
+      "crop": "Apple",
+      "type": "disease",
+      "introduction": "A fungal disease affecting apples and cedars, forming orange pustules on leaves and fruit, reducing quality.",
+      "symptoms": [
+        "Yellow-orange spots on leaves.",
+        "Fruit may develop lesions.",
+        "Premature leaf drop."
+      ],
+      "immediateActions": [
+        "Remove infected leaves and fruit.",
+        "Prune affected branches."
+      ],
+      "naturalControl": [
+        "Plant resistant apple varieties.",
+        "Remove nearby cedar hosts if possible."
+      ],
+      "chemicalControl": [
+        "Apply fungicides containing Mancozeb or Myclobutanil during early leaf development.",
+        "Spray copper-based fungicides preventively."
+      ],
+      "prevention": [
+        "Maintain proper spacing for air circulation.",
+        "Avoid overhead irrigation during wet conditions."
+      ]
+    },
+    {
+      "id": "Corn___Cercospora_leaf_spot",
+      "name": "Cercospora Leaf Spot / Gray Leaf Spot",
+      "crop": "Corn (maize)",
+      "type": "disease",
+      "introduction": "Fungal disease causing brown to gray lesions on leaves, reducing photosynthesis and yield.",
+      "symptoms": [
+        "Small brown or gray lesions on leaves.",
+        "Lesions may merge forming larger dead areas.",
+        "Premature leaf death."
+      ],
+      "immediateActions": [
+        "Remove severely infected leaves.",
+        "Avoid planting maize after maize (crop rotation)."
+      ],
+      "naturalControl": [
+        "Maintain healthy soil and crop rotation.",
+        "Use compost teas to improve leaf immunity."
+      ],
+      "chemicalControl": [
+        "Apply fungicides containing Azoxystrobin or Propiconazole when lesions first appear.",
+        "Use preventive copper sprays in humid conditions."
+      ],
+      "prevention": [
+        "Plant resistant corn varieties.",
+        "Ensure proper field drainage."
+      ]
+    },
+    {
+      "id": "Corn___Common_rust",
+      "name": "Common Rust",
+      "crop": "Corn (maize)",
+      "type": "disease",
+      "introduction": "A fungal disease causing reddish-brown pustules on maize leaves, reducing photosynthesis and yield.",
+      "symptoms": [
+        "Reddish-brown pustules on leaves.",
+        "Leaves may yellow and die prematurely.",
+        "Reduced grain filling."
+      ],
+      "immediateActions": [
+        "Remove infected plant debris.",
+        "Monitor fields weekly for early signs."
+      ],
+      "naturalControl": [
+        "Plant rust-resistant corn varieties.",
+        "Encourage beneficial microbes to reduce stress."
+      ],
+      "chemicalControl": [
+        "Apply fungicides such as Propiconazole or Azoxystrobin at early infection stages.",
+        "Use copper-based sprays as preventive."
+      ],
+      "prevention": [
+        "Avoid dense planting.",
+        "Rotate crops to reduce fungal build-up."
+      ]
+    },
+    {
+      "id": "Mango___Cutting_Weevil",
+      "name": "Cutting Weevil",
+      "crop": "Mango",
+      "type": "disease",
+      "introduction": "Insect pest that attacks young shoots and cuttings, causing wilting and dieback of mango branches.",
+      "symptoms": [
+        "Wilting of young shoots.",
+        "Boreholes on cuttings.",
+        "Dieback of affected branches."
+      ],
+      "immediateActions": [
+        "Remove and destroy infested cuttings.",
+        "Monitor new shoots for adult weevils."
+      ],
+      "naturalControl": [
+        "Introduce parasitic wasps or predatory insects.",
+        "Spray neem oil to repel adults."
+      ],
+      "chemicalControl": [
+        "Apply systemic insecticides to affected trees.",
+        "Use pyrethroid sprays for adult weevils."
+      ],
+      "prevention": [
+        "Use disease-free planting material.",
+        "Inspect grafts and cuttings before planting."
+      ]
+    },
+    {
+      "id": "Mango___Die_Back",
+      "name": "Die Back",
+      "crop": "Mango",
+      "type": "disease",
+      "introduction": "Fungal disease causing drying and death of branches, especially at tips, affecting mango productivity.",
+      "symptoms": [
+        "Brown or black lesions on branch tips.",
+        "Leaves wilt and fall off.",
+        "Branches dry and die back gradually."
+      ],
+      "immediateActions": [
+        "Prune affected branches and burn them.",
+        "Disinfect pruning tools."
+      ],
+      "naturalControl": [
+        "Spray neem oil to reduce fungal spores.",
+        "Maintain soil health and moisture."
+      ],
+      "chemicalControl": [
+        "Use copper-based fungicides weekly during wet season.",
+        "Apply systemic fungicides if severe."
+      ],
+      "prevention": [
+        "Plant resistant mango varieties.",
+        "Avoid over-watering."
+      ]
+    },
+    {
+      "id": "Pumpkin___Downy_Mildew",
+      "name": "Downy Mildew",
+      "crop": "Pumpkin",
+      "type": "disease",
+      "introduction": "Fungal-like disease causing yellow patches on upper leaf surfaces and grey mold underneath, reducing plant growth.",
+      "symptoms": [
+        "Yellow or pale green patches on upper leaf surface.",
+        "Greyish mold on underside of leaves.",
+        "Leaves curl and wither."
+      ],
+      "immediateActions": [
+        "Remove infected leaves.",
+        "Avoid overhead irrigation."
+      ],
+      "naturalControl": [
+        "Spray neem oil.",
+        "Promote good airflow around plants."
+      ],
+      "chemicalControl": [
+        "Apply copper-based fungicides weekly.",
+        "Use Mancozeb for severe cases."
+      ],
+      "prevention": [
+        "Plant resistant pumpkin varieties.",
+        "Ensure proper spacing between plants."
+      ]
+    },
+    {
+      "id": "Potato___Early_blight",
+      "name": "Early Blight",
+      "crop": "Potato",
+      "type": "disease",
+      "introduction": "Fungal disease causing dark lesions on leaves and stems, reducing yield and tuber quality.",
+      "symptoms": [
+        "Dark concentric rings on leaves.",
+        "Leaves turn yellow and die.",
+        "Stem lesions and rotting of tubers."
+      ],
+      "immediateActions": [
+        "Remove infected leaves and stems.",
+        "Dispose of infected tubers."
+      ],
+      "naturalControl": [
+        "Spray neem oil or biofungicides.",
+        "Rotate crops to healthy fields."
+      ],
+      "chemicalControl": [
+        "Apply systemic fungicides like Mancozeb or Chlorothalonil.",
+        "Use preventive sprays before disease onset."
+      ],
+      "prevention": [
+        "Plant resistant potato varieties.",
+        "Maintain proper irrigation to avoid leaf wetness."
+      ]
+    },
+    {
+      "id": "Tomato___Early_blight",
+      "name": "Early Blight",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "Fungal disease affecting leaves, stems, and fruits, causing dark spots and reducing yield.",
+      "symptoms": [
+        "Dark brown spots with concentric rings on leaves.",
+        "Leaves yellow and fall prematurely.",
+        "Stem lesions may appear."
+      ],
+      "immediateActions": [
+        "Remove infected leaves and prune stems.",
+        "Dispose of fallen debris."
+      ],
+      "naturalControl": [
+        "Spray neem oil or biocontrol solutions.",
+        "Maintain healthy soil with compost."
+      ],
+      "chemicalControl": [
+        "Apply copper-based or systemic fungicides.",
+        "Spray preventive fungicides early in season."
+      ],
+      "prevention": [
+        "Plant resistant tomato varieties.",
+        "Avoid wetting foliage excessively."
+      ]
+    },
+    {
+      "id": "Grape___Esca_Black_Measles",
+      "name": "Esca (Black Measles)",
+      "crop": "Grape",
+      "type": "disease",
+      "introduction": "Fungal disease causing dark spots on berries and leaves, leading to fruit rot and vine weakening.",
+      "symptoms": [
+        "Black spots on berries.",
+        "Yellowing of leaves.",
+        "Premature leaf and berry drop."
+      ],
+      "immediateActions": [
+        "Remove affected berries and leaves.",
+        "Prune infected canes."
+      ],
+      "naturalControl": [
+        "Spray neem oil on leaves and vines.",
+        "Improve soil health with organic matter."
+      ],
+      "chemicalControl": [
+        "Use systemic fungicides like Tebuconazole.",
+        "Apply copper-based sprays preventively."
+      ],
+      "prevention": [
+        "Plant resistant grape varieties.",
+        "Maintain vineyard hygiene."
+      ]
+    },
+    {
+      "id": "Mango___Gall_Midge",
+      "name": "Gall Midge",
+      "crop": "Mango",
+      "type": "disease",
+      "introduction": "Insect pest attacking flower buds, leading to gall formation and poor fruit set.",
+      "symptoms": [
+        "Swollen flower buds.",
+        "Flowers fail to open.",
+        "Reduced fruit formation."
+      ],
+      "immediateActions": [
+        "Remove and destroy affected buds.",
+        "Monitor for adult midges."
+      ],
+      "naturalControl": [
+        "Spray neem oil to deter adults.",
+        "Encourage predators like spiders."
+      ],
+      "chemicalControl": [
+        "Apply systemic insecticides if severe.",
+        "Use insecticidal sprays on flowers."
+      ],
+      "prevention": [
+        "Plant resistant mango varieties.",
+        "Regular monitoring during flowering season."
+      ]
+    },
+    {
+      "id": "Orange___Haunglongbing",
+      "name": "Haunglongbing (Citrus greening)",
+      "crop": "Orange",
+      "type": "disease",
+      "introduction": "Bacterial disease transmitted by psyllids, causing yellow shoots and bitter, misshapen fruits.",
+      "symptoms": [
+        "Yellow shoots and leaves.",
+        "Fruit remains green and bitter.",
+        "Tree decline over time."
+      ],
+      "immediateActions": [
+        "Remove and destroy infected trees.",
+        "Control psyllid vectors."
+      ],
+      "naturalControl": [
+        "Plant resistant citrus varieties.",
+        "Encourage natural predators of psyllids."
+      ],
+      "chemicalControl": [
+        "Apply systemic antibiotics like streptomycin in early infection.",
+        "Use insecticides to control psyllids."
+      ],
+      "prevention": [
+        "Avoid planting susceptible varieties near infected trees.",
+        "Monitor trees regularly."
+      ]
+    },
+    {
+      "id": "Cauliflower___Healthy",
+      "name": "Healthy",
+      "crop": "Cauliflower",
+      "type": "healthy",
+      "introduction": "The plant is healthy with no visible disease symptoms.",
+      "symptoms": ["Healthy leaves, stems, and flowers."],
+      "immediateActions": ["No immediate action required."],
+      "naturalControl": ["Maintain regular watering and nutrient supply."],
+      "chemicalControl": ["No chemical control required."],
+      "prevention": ["Regularly inspect plants and maintain hygiene."]
+    },
+    {
+      "id": "Cotton___Healthy",
+      "name": "Healthy",
+      "crop": "Cotton",
+      "type": "healthy",
+      "introduction": "The plant is healthy with no visible disease symptoms.",
+      "symptoms": ["Healthy leaves, stems, and flowers."],
+      "immediateActions": ["No immediate action required."],
+      "naturalControl": ["Maintain regular watering and nutrient supply."],
+      "chemicalControl": ["No chemical control required."],
+      "prevention": ["Regularly inspect plants and maintain hygiene."]
+    },
+    {
+      "id": "Jackfruit___Healthy",
+      "name": "Healthy",
+      "crop": "Jackfruit",
+      "type": "healthy",
+      "introduction": "The plant is healthy with no visible disease symptoms.",
+      "symptoms": ["Healthy leaves, stems, and fruits."],
+      "immediateActions": ["No immediate action required."],
+      "naturalControl": ["Maintain proper watering and nutrition."],
+      "chemicalControl": ["No chemical control required."],
+      "prevention": ["Monitor plants regularly for early signs of disease."]
+    },
+    {
+      "id": "Mango___Healthy",
+      "name": "Healthy",
+      "crop": "Mango",
+      "type": "healthy",
+      "introduction": "The plant is healthy with no visible disease symptoms.",
+      "symptoms": ["Healthy leaves, stems, and fruits."],
+      "immediateActions": ["No action required."],
+      "naturalControl": ["Provide regular nutrients and water."],
+      "chemicalControl": ["No chemical treatment required."],
+      "prevention": ["Regular monitoring and pruning as needed."]
+    },
+    {
+      "id": "Rice___Healthy",
+      "name": "Healthy",
+      "crop": "Rice",
+      "type": "healthy",
+      "introduction": "The plant is healthy with no visible disease symptoms.",
+      "symptoms": ["Healthy leaves, stems, and grains."],
+      "immediateActions": ["No action required."],
+      "naturalControl": ["Provide proper irrigation and nutrients."],
+      "chemicalControl": ["No chemical control required."],
+      "prevention": ["Regular field inspection and pest monitoring."]
+    },
+    {
+      "id": "Sugarcane___Healthy",
+      "name": "Healthy",
+      "crop": "Sugarcane",
+      "type": "healthy",
+      "introduction": "The plant is healthy with no visible disease symptoms.",
+      "symptoms": ["Healthy leaves, stems, and canes."],
+      "immediateActions": ["No action required."],
+      "naturalControl": ["Provide adequate water and nutrients."],
+      "chemicalControl": ["No chemical control required."],
+      "prevention": ["Regular monitoring for pests and diseases."]
+    },
+    {
+      "id": "Pumpkin___Healthy_Leaf",
+      "name": "Healthy Leaf",
+      "crop": "Pumpkin",
+      "type": "healthy",
+      "introduction": "The pumpkin plant leaf is healthy with no visible disease symptoms.",
+      "symptoms": ["Leaves are green and undamaged."],
+      "immediateActions": ["No action required."],
+      "naturalControl": ["Maintain regular watering and nutrients."],
+      "chemicalControl": ["No chemical treatment required."],
+      "prevention": ["Regular inspection for pests and diseases."]
+    },
+    {
+      "id": "Rice___Hispa",
+      "name": "Hispa",
+      "crop": "Rice",
+      "type": "disease",
+      "introduction": "Insect pest that feeds on rice leaves, causing white streaks and reduced photosynthesis.",
+      "symptoms": [
+        "White longitudinal streaks on leaves.",
+        "Leaves curl and dry.",
+        "Reduced plant growth."
+      ],
+      "immediateActions": [
+        "Remove infested leaves.",
+        "Use sticky traps for adults."
+      ],
+      "naturalControl": [
+        "Introduce natural predators like spiders.",
+        "Spray neem oil regularly."
+      ],
+      "chemicalControl": [
+        "Apply insecticides such as Imidacloprid or Chlorpyrifos.",
+        "Spray pyrethroids if necessary."
+      ],
+      "prevention": [
+        "Plant resistant rice varieties.",
+        "Monitor fields regularly for pest presence."
+      ]
+    },
+    {
+      "id": "Potato___Late_blight",
+      "name": "Late Blight",
+      "crop": "Potato",
+      "type": "disease",
+      "introduction": "A devastating fungal-like disease that affects potato leaves and tubers, causing dark lesions and rapid rot.",
+      "symptoms": [
+        "Dark, water-soaked lesions on leaves.",
+        "White fungal growth on undersides of leaves.",
+        "Rotting of tubers in the soil."
+      ],
+      "immediateActions": [
+        "Remove and destroy infected plants.",
+        "Avoid overhead watering."
+      ],
+      "naturalControl": [
+        "Practice crop rotation with non-host crops.",
+        "Ensure good air circulation and spacing."
+      ],
+      "chemicalControl": [
+        "Apply fungicides containing Mancozeb, Chlorothalonil, or Metalaxyl.",
+        "Spray preventive fungicides regularly during wet conditions."
+      ],
+      "prevention": [
+        "Plant resistant potato varieties.",
+        "Avoid planting potatoes in wet, poorly drained fields."
+      ]
+    },
+    {
+      "id": "Tomato___Late_blight",
+      "name": "Late Blight",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "Fungal-like disease causing leaf and fruit lesions, leading to severe crop losses in tomato plants.",
+      "symptoms": [
+        "Dark brown or black spots on leaves.",
+        "Lesions on fruit causing rot.",
+        "White growth on leaf undersides."
+      ],
+      "immediateActions": [
+        "Remove infected leaves and fruits.",
+        "Avoid wetting foliage excessively."
+      ],
+      "naturalControl": [
+        "Maintain proper plant spacing and airflow.",
+        "Rotate crops with non-host plants."
+      ],
+      "chemicalControl": [
+        "Apply fungicides like Mancozeb or Copper-based sprays.",
+        "Use systemic fungicides at first sign of disease."
+      ],
+      "prevention": [
+        "Plant resistant tomato varieties.",
+        "Avoid planting tomatoes in damp areas."
+      ]
+    },
+    {
+      "id": "Tomato___Leaf_Mold",
+      "name": "Leaf Mold",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "Fungal disease that causes yellowing and moldy growth on tomato leaves, reducing photosynthesis.",
+      "symptoms": [
+        "Yellowing of older leaves.",
+        "Fuzzy gray mold on undersides of leaves.",
+        "Leaves curl and drop prematurely."
+      ],
+      "immediateActions": [
+        "Remove infected leaves.",
+        "Improve ventilation around plants."
+      ],
+      "naturalControl": [
+        "Spray neem oil or other organic antifungal solutions.",
+        "Avoid overhead irrigation."
+      ],
+      "chemicalControl": [
+        "Apply fungicides containing Copper or Mancozeb.",
+        "Spray preventively during humid conditions."
+      ],
+      "prevention": [
+        "Grow disease-resistant tomato varieties.",
+        "Maintain proper spacing and airflow."
+      ]
+    },
+    {
+      "id": "Grape___Leaf_blight_Isariopsis",
+      "name": "Leaf Blight (Isariopsis Leaf Spot)",
+      "crop": "Grape",
+      "type": "disease",
+      "introduction": "Fungal disease causing brown spots and leaf blight in grapevines, reducing yield and quality.",
+      "symptoms": [
+        "Brown spots on leaves with yellow halos.",
+        "Premature leaf drop.",
+        "Weakening of vine growth."
+      ],
+      "immediateActions": [
+        "Remove infected leaves.",
+        "Prune affected areas."
+      ],
+      "naturalControl": [
+        "Promote air circulation around vines.",
+        "Spray neem or biofungicides."
+      ],
+      "chemicalControl": [
+        "Use fungicides like Mancozeb or Copper-based sprays.",
+        "Apply systemic fungicides if severe."
+      ],
+      "prevention": [
+        "Plant resistant grape varieties.",
+        "Maintain good vineyard hygiene."
+      ]
+    },
+    {
+      "id": "Strawberry___Leaf_Scorch",
+      "name": "Leaf Scorch",
+      "crop": "Strawberry",
+      "type": "disease",
+      "introduction": "Bacterial disease causing leaf scorching and reduced plant growth.",
+      "symptoms": [
+        "Brown edges on leaves.",
+        "Yellowing between veins.",
+        "Leaves curl and die."
+      ],
+      "immediateActions": [
+        "Remove infected leaves.",
+        "Avoid overhead irrigation."
+      ],
+      "naturalControl": [
+        "Use drip irrigation to prevent leaf wetness.",
+        "Maintain good soil drainage."
+      ],
+      "chemicalControl": [
+        "Apply bactericides with copper.",
+        "Spray preventive chemicals during humid weather."
+      ],
+      "prevention": [
+        "Plant disease-free seedlings.",
+        "Maintain proper spacing and airflow."
+      ]
+    },
+    {
+      "id": "Sugarcane___Mosaic",
+      "name": "Mosaic",
+      "crop": "Sugarcane",
+      "type": "disease",
+      "introduction": "Viral disease causing mottled leaf patterns and reduced growth in sugarcane.",
+      "symptoms": [
+        "Light and dark green mosaic patterns on leaves.",
+        "Stunted growth.",
+        "Reduced sugar content in stalks."
+      ],
+      "immediateActions": [
+        "Remove infected plants.",
+        "Monitor neighboring crops."
+      ],
+      "naturalControl": [
+        "Use virus-free planting material.",
+        "Encourage natural predators of insect vectors."
+      ],
+      "chemicalControl": [
+        "Control insect vectors using systemic insecticides.",
+        "No direct antiviral chemicals available."
+      ],
+      "prevention": [
+        "Plant resistant sugarcane varieties.",
+        "Use certified clean seeds."
+      ]
+    },
+    {
+      "id": "Pumpkin___Mosaic_Disease",
+      "name": "Mosaic Disease",
+      "crop": "Pumpkin",
+      "type": "disease",
+      "introduction": "Viral disease causing mottled leaves and stunted growth in pumpkin plants.",
+      "symptoms": [
+        "Light and dark green patches on leaves.",
+        "Leaves curl and deform.",
+        "Fruit growth may be stunted."
+      ],
+      "immediateActions": [
+        "Remove infected leaves.",
+        "Destroy affected plants."
+      ],
+      "naturalControl": [
+        "Plant disease-free seeds.",
+        "Encourage natural enemies of aphid vectors."
+      ],
+      "chemicalControl": [
+        "Control aphids with insecticidal sprays.",
+        "No antiviral chemicals available."
+      ],
+      "prevention": [
+        "Use resistant pumpkin varieties.",
+        "Maintain crop hygiene."
+      ]
+    },
+    {
+      "id": "Corn___Northern_Leaf_Blight",
+      "name": "Northern Leaf Blight",
+      "crop": "Corn (maize)",
+      "type": "disease",
+      "introduction": "Fungal disease causing elongated gray-green lesions on maize leaves, reducing yield.",
+      "symptoms": [
+        "Long grayish lesions on leaves.",
+        "Leaves may die prematurely.",
+        "Reduced photosynthesis."
+      ],
+      "immediateActions": [
+        "Remove affected leaves.",
+        "Practice crop rotation."
+      ],
+      "naturalControl": [
+        "Plant resistant corn varieties.",
+        "Improve soil drainage and health."
+      ],
+      "chemicalControl": [
+        "Use fungicides like Mancozeb or Azoxystrobin during early infection.",
+        "Spray preventively in humid conditions."
+      ],
+      "prevention": [
+        "Rotate crops and avoid continuous maize planting.",
+        "Monitor fields regularly."
+      ]
+    },
+    {
+      "id": "Cotton___Powdery_Mildew",
+      "name": "Powdery Mildew",
+      "crop": "Cotton",
+      "type": "disease",
+      "introduction": "Fungal disease producing white powdery growth on leaves and stems, reducing photosynthesis.",
+      "symptoms": [
+        "White powdery coating on leaves.",
+        "Leaves curl or deform.",
+        "Reduced growth and yield."
+      ],
+      "immediateActions": [
+        "Remove affected leaves.",
+        "Ensure good air circulation."
+      ],
+      "naturalControl": [
+        "Spray neem oil or biofungicides.",
+        "Avoid overhead irrigation."
+      ],
+      "chemicalControl": [
+        "Apply sulfur-based or systemic fungicides.",
+        "Spray preventive fungicides in humid conditions."
+      ],
+      "prevention": [
+        "Plant resistant cotton varieties.",
+        "Maintain spacing for airflow."
+      ]
+    },
+    {
+      "id": "Mango___Powdery_Mildew",
+      "name": "Powdery Mildew",
+      "crop": "Mango",
+      "type": "disease",
+      "introduction": "Fungal disease causing white powdery spots on leaves and young shoots, reducing growth and fruit yield.",
+      "symptoms": [
+        "White powder on leaves and shoots.",
+        "Leaves curl and become deformed.",
+        "Reduced fruit set."
+      ],
+      "immediateActions": [
+        "Prune infected shoots.",
+        "Remove infected leaves."
+      ],
+      "naturalControl": [
+        "Spray neem oil or biofungicides.",
+        "Ensure good airflow."
+      ],
+      "chemicalControl": [
+        "Apply systemic fungicides like Propiconazole.",
+        "Use sulfur-based sprays preventively."
+      ],
+      "prevention": [
+        "Plant resistant mango varieties.",
+        "Maintain pruning and hygiene practices."
+      ]
+    },
+    {
+      "id": "Pumpkin___Powdery_Mildew",
+      "name": "Powdery Mildew",
+      "crop": "Pumpkin",
+      "type": "disease",
+      "introduction": "Fungal disease producing white powdery growth on pumpkin leaves, affecting photosynthesis.",
+      "symptoms": [
+        "White powder on leaf surface.",
+        "Leaves may curl and yellow.",
+        "Stunted plant growth."
+      ],
+      "immediateActions": [
+        "Remove infected leaves.",
+        "Improve airflow around plants."
+      ],
+      "naturalControl": [
+        "Spray neem oil or biofungicides.",
+        "Avoid overhead irrigation."
+      ],
+      "chemicalControl": [
+        "Apply sulfur-based or systemic fungicides.",
+        "Spray preventively during humid conditions."
+      ],
+      "prevention": [
+        "Plant resistant pumpkin varieties.",
+        "Maintain proper spacing and hygiene."
+      ]
+    },
+    {
+      "id": "Cherry___Powdery_Mildew",
+      "name": "Powdery Mildew",
+      "crop": "Cherry (including sour)",
+      "type": "disease",
+      "introduction": "Fungal disease causing white powdery spots on cherry leaves and shoots, reducing photosynthesis and growth.",
+      "symptoms": [
+        "White powder on leaf surface.",
+        "Leaves curl and deform.",
+        "Reduced fruit yield."
+      ],
+      "immediateActions": [
+        "Remove infected leaves and shoots.",
+        "Ensure good airflow."
+      ],
+      "naturalControl": [
+        "Spray neem oil or biofungicides.",
+        "Avoid overhead irrigation."
+      ],
+      "chemicalControl": [
+        "Apply sulfur-based or systemic fungicides.",
+        "Spray preventively during wet conditions."
+      ],
+      "prevention": [
+        "Plant resistant cherry varieties.",
+        "Maintain proper spacing and hygiene."
+      ]
+    },
+    {
+      "id": "Sugarcane___RedRot",
+      "name": "Red Rot",
+      "crop": "Sugarcane",
+      "type": "disease",
+      "introduction": "Fungal disease causing red discoloration in sugarcane stalks and internal rot.",
+      "symptoms": [
+        "Red patches inside stalks.",
+        "Wilting leaves.",
+        "Reduced sugar content."
+      ],
+      "immediateActions": [
+        "Remove and burn infected stalks.",
+        "Avoid spreading infected soil."
+      ],
+      "naturalControl": [
+        "Plant resistant sugarcane varieties.",
+        "Ensure crop rotation."
+      ],
+      "chemicalControl": [
+        "Apply fungicides on soil and foliage if recommended.",
+        "Use systemic fungicides in severe cases."
+      ],
+      "prevention": [
+        "Use clean planting material.",
+        "Maintain field hygiene."
+      ]
+    },
+    {
+      "id": "Sugarcane___Rust",
+      "name": "Rust",
+      "crop": "Sugarcane",
+      "type": "disease",
+      "introduction": "Fungal disease causing orange pustules on sugarcane leaves, reducing photosynthesis.",
+      "symptoms": [
+        "Orange or rust-colored pustules on leaves.",
+        "Leaves may wither prematurely.",
+        "Reduced stalk growth."
+      ],
+      "immediateActions": [
+        "Remove affected leaves.",
+        "Monitor field regularly."
+      ],
+      "naturalControl": [
+        "Plant resistant varieties.",
+        "Encourage natural predators of rust spores."
+      ],
+      "chemicalControl": [
+        "Apply fungicides like Mancozeb or Propiconazole preventively.",
+        "Spray systemic fungicides if severe."
+      ],
+      "prevention": [
+        "Maintain proper spacing.",
+        "Rotate crops to reduce infection."
+      ]
+    },
+    {
+      "id": "Tomato___Septoria_leaf_spot",
+      "name": "Septoria Leaf Spot",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "Fungal disease causing small dark spots with light centers on tomato leaves, leading to defoliation.",
+      "symptoms": [
+        "Small brown or black spots on leaves.",
+        "Yellowing around spots.",
+        "Leaf drop over time."
+      ],
+      "immediateActions": [
+        "Remove infected leaves.",
+        "Destroy debris."
+      ],
+      "naturalControl": [
+        "Maintain airflow and proper spacing.",
+        "Use neem oil or biofungicides."
+      ],
+      "chemicalControl": [
+        "Spray copper-based fungicides or Mancozeb.",
+        "Apply systemic fungicides if needed."
+      ],
+      "prevention": [
+        "Plant resistant tomato varieties.",
+        "Practice crop rotation."
+      ]
+    },
+    {
+      "id": "Mango___Sooty_Mould",
+      "name": "Sooty Mould",
+      "crop": "Mango",
+      "type": "disease",
+      "introduction": "Fungal growth on leaf surface forming black sooty coating, usually secondary to insect honeydew.",
+      "symptoms": [
+        "Black powdery coating on leaves and stems.",
+        "Leaves may yellow or wilt."
+      ],
+      "immediateActions": [
+        "Remove and wash affected leaves.",
+        "Control insect vectors producing honeydew."
+      ],
+      "naturalControl": [
+        "Spray neem oil to reduce insect activity.",
+        "Ensure good air circulation."
+      ],
+      "chemicalControl": [
+        "Apply systemic fungicides if severe.",
+        "Spray insecticides to control honeydew-producing pests."
+      ],
+      "prevention": [
+        "Maintain tree hygiene.",
+        "Control insect vectors regularly."
+      ]
+    },
+    {
+      "id": "Tomato___Spider_mites",
+      "name": "Spider Mites (Two-spotted)",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "Insect pest causing tiny yellow or white spots on leaves and webbing, reducing photosynthesis.",
+      "symptoms": [
+        "Yellow or white speckles on leaves.",
+        "Fine webbing on leaf undersides.",
+        "Leaves curl and dry."
+      ],
+      "immediateActions": [
+        "Remove heavily infested leaves.",
+        "Spray miticides if necessary."
+      ],
+      "naturalControl": [
+        "Introduce predatory mites.",
+        "Use neem oil sprays."
+      ],
+      "chemicalControl": [
+        "Apply miticides such as Abamectin or Spiromesifen.",
+        "Follow recommended doses carefully."
+      ],
+      "prevention": [
+        "Monitor plants regularly for spider mites.",
+        "Maintain humidity to reduce mite outbreaks."
+      ]
+    },
+    {
+      "id": "Tomato___Target_Spot",
+      "name": "Target Spot",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "Fungal disease causing round brown spots with concentric rings on tomato leaves and fruits.",
+      "symptoms": [
+        "Round brown lesions with light center.",
+        "Yellowing of surrounding leaf tissue.",
+        "Leaf drop and reduced yield."
+      ],
+      "immediateActions": [
+        "Remove affected leaves.",
+        "Dispose of infected fruit."
+      ],
+      "naturalControl": [
+        "Maintain good airflow.",
+        "Spray neem or biocontrol agents."
+      ],
+      "chemicalControl": [
+        "Apply Mancozeb or Copper-based fungicides.",
+        "Use systemic fungicides if necessary."
+      ],
+      "prevention": [
+        "Plant resistant tomato varieties.",
+        "Rotate crops."
+      ]
+    },
+    {
+      "id": "Cotton___Target_Spot",
+      "name": "Target Spot",
+      "crop": "Cotton",
+      "type": "disease",
+      "introduction": "Fungal disease causing small circular lesions on cotton leaves, reducing photosynthesis and yield.",
+      "symptoms": [
+        "Small circular brown lesions.",
+        "Yellowing of leaves.",
+        "Leaf drop in severe cases."
+      ],
+      "immediateActions": [
+        "Remove infected leaves.",
+        "Monitor fields regularly."
+      ],
+      "naturalControl": [
+        "Spray neem or biofungicides.",
+        "Maintain proper spacing."
+      ],
+      "chemicalControl": [
+        "Apply Mancozeb or systemic fungicides.",
+        "Use preventive fungicide sprays."
+      ],
+      "prevention": [
+        "Plant resistant cotton varieties.",
+        "Rotate crops to reduce infection."
+      ]
+    },
+    {
+      "id": "Tomato___Yellow_Leaf_Curl_Virus",
+      "name": "Tomato Yellow Leaf Curl Virus",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "Viral disease transmitted by whiteflies causing leaf curling, yellowing, and reduced fruit yield.",
+      "symptoms": [
+        "Yellowing and curling of leaves.",
+        "Stunted growth.",
+        "Reduced fruit set."
+      ],
+      "immediateActions": [
+        "Remove infected plants.",
+        "Control whitefly vectors."
+      ],
+      "naturalControl": [
+        "Introduce natural predators like ladybugs.",
+        "Remove weeds hosting whiteflies."
+      ],
+      "chemicalControl": [
+        "Apply insecticides to control whiteflies.",
+        "No antiviral chemicals available."
+      ],
+      "prevention": [
+        "Plant resistant tomato varieties.",
+        "Maintain good crop hygiene."
+      ]
+    },
+    {
+      "id": "Tomato___Mosaic_Virus",
+      "name": "Tomato Mosaic Virus",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "Viral disease causing mosaic patterns on leaves, stunted growth, and reduced fruit yield in tomato.",
+      "symptoms": [
+        "Mosaic pattern of light and dark green on leaves.",
+        "Leaves may curl or deform.",
+        "Stunted plant growth."
+      ],
+      "immediateActions": [
+        "Remove infected plants.",
+        "Sanitize tools and hands."
+      ],
+      "naturalControl": [
+        "Plant virus-free seeds.",
+        "Remove infected debris."
+      ],
+      "chemicalControl": [
+        "No chemical cure for the virus.",
+        "Control insect vectors if present."
+      ],
+      "prevention": [
+        "Use resistant tomato varieties.",
+        "Maintain strict hygiene in greenhouse or field."
+      ]
+    },
+    {
+      "id": "Unknown___Unknown_Disease",
+      "name": "Unknown Disease",
+      "crop": "Unknown",
+      "type": "unknown",
+      "introduction": "The disease affecting this crop is not identified or classified.",
+      "symptoms": [
+        "Symptoms not clearly identified.",
+        "Plant shows unusual signs or stress."
+      ],
+      "immediateActions": [
+        "Isolate the plant to prevent spread.",
+        "Monitor neighboring crops for symptoms."
+      ],
+      "naturalControl": [
+        "Maintain plant hygiene.",
+        "Ensure proper watering and sunlight."
+      ],
+      "chemicalControl": [
+        "No specific chemical treatment available.",
+        "Apply general plant care measures."
+      ],
+      "prevention": [
+        "Quarantine new plants before introducing them.",
+        "Keep detailed records of plant health."
+      ]
+    },
+    {
+      "id": "Sugarcane___Yellow",
+      "name": "Yellow",
+      "crop": "Sugarcane",
+      "type": "healthy",
+      "introduction": "Sugarcane showing yellow coloration, but considered healthy.",
+      "symptoms": [
+        "Leaves appear yellowish due to natural variation or minor stress.",
+        "No disease progression observed."
+      ],
+      "immediateActions": [
+        "Monitor plant for changes.",
+        "Maintain normal care and irrigation."
+      ],
+      "naturalControl": [
+        "Ensure proper fertilization.",
+        "Maintain healthy soil conditions."
+      ],
+      "chemicalControl": [
+        "No chemical treatment required."
+      ],
+      "prevention": [
+        "Continue regular crop management practices."
+      ]
+    },
+    {
+      "id": "Apple___Healthy",
+      "name": "Healthy",
+      "crop": "Apple",
+      "type": "healthy",
+      "introduction": "Apple plants with no visible disease symptoms.",
+      "symptoms": [
+        "Leaves are green and healthy.",
+        "Fruits develop normally."
+      ],
+      "immediateActions": [
+        "Maintain normal cultivation practices."
+      ],
+      "naturalControl": [
+        "Regular watering and fertilization."
+      ],
+      "chemicalControl": [
+        "No chemicals required."
+      ],
+      "prevention": [
+        "Monitor regularly for early signs of disease."
+      ]
+    },
+    {
+      "id": "Blueberry___Healthy",
+      "name": "Healthy",
+      "crop": "Blueberry",
+      "type": "healthy",
+      "introduction": "Blueberry plants with no signs of disease or pest infestation.",
+      "symptoms": [
+        "Leaves, stems, and fruits are healthy and normal.",
+        "No discoloration or damage observed."
+      ],
+      "immediateActions": [
+        "Continue normal care."
+      ],
+      "naturalControl": [
+        "Ensure good soil moisture and nutrients."
+      ],
+      "chemicalControl": [
+        "No chemical treatment needed."
+      ],
+      "prevention": [
+        "Maintain hygiene and regular monitoring."
+      ]
+    },
+    {
+      "id": "Cherry___Healthy",
+      "name": "Healthy",
+      "crop": "Cherry (including sour)",
+      "type": "healthy",
+      "introduction": "Cherry plants with no visible signs of disease or pests.",
+      "symptoms": [
+        "Leaves are green and free of spots.",
+        "Fruits develop normally."
+      ],
+      "immediateActions": [
+        "Maintain regular care and monitoring."
+      ],
+      "naturalControl": [
+        "Provide adequate nutrients and water."
+      ],
+      "chemicalControl": [
+        "No chemicals required."
+      ],
+      "prevention": [
+        "Monitor regularly for early signs of problems."
+      ]
+    },
+    {
+      "id": "Corn___Healthy",
+      "name": "Healthy",
+      "crop": "Corn (maize)",
+      "type": "healthy",
+      "introduction": "Corn plants showing normal growth with no disease.",
+      "symptoms": [
+        "Leaves are green and upright.",
+        "No visible lesions or pests."
+      ],
+      "immediateActions": [
+        "Maintain standard cultivation practices."
+      ],
+      "naturalControl": [
+        "Proper irrigation and nutrient management."
+      ],
+      "chemicalControl": [
+        "No treatment needed."
+      ],
+      "prevention": [
+        "Regular inspection and monitoring."
+      ]
+    },
+    {
+      "id": "Grape___Healthy",
+      "name": "Healthy",
+      "crop": "Grape",
+      "type": "healthy",
+      "introduction": "Grapevines with no disease symptoms.",
+      "symptoms": [
+        "Leaves and stems are normal.",
+        "Fruit development is unaffected."
+      ],
+      "immediateActions": [
+        "Maintain proper care and pruning."
+      ],
+      "naturalControl": [
+        "Adequate water and nutrition."
+      ],
+      "chemicalControl": [
+        "No chemicals required."
+      ],
+      "prevention": [
+        "Monitor regularly for early signs of stress."
+      ]
+    },
+    {
+      "id": "Peach___Healthy",
+      "name": "Healthy",
+      "crop": "Peach",
+      "type": "healthy",
+      "introduction": "Peach plants without disease or pest issues.",
+      "symptoms": [
+        "Leaves, flowers, and fruits are healthy.",
+        "No discoloration or spotting."
+      ],
+      "immediateActions": [
+        "Maintain regular orchard care."
+      ],
+      "naturalControl": [
+        "Watering, fertilization, and pruning."
+      ],
+      "chemicalControl": [
+        "No chemical treatment required."
+      ],
+      "prevention": [
+        "Monitor for early pest and disease symptoms."
+      ]
+    },
+    {
+      "id": "Pepper___Healthy",
+      "name": "Healthy",
+      "crop": "Pepper, bell",
+      "type": "healthy",
+      "introduction": "Bell pepper plants with no signs of disease.",
+      "symptoms": [
+        "Leaves are green and healthy.",
+        "Fruits develop normally."
+      ],
+      "immediateActions": [
+        "Maintain proper irrigation and care."
+      ],
+      "naturalControl": [
+        "Provide nutrients as required."
+      ],
+      "chemicalControl": [
+        "No chemical treatments necessary."
+      ],
+      "prevention": [
+        "Monitor regularly for early symptoms."
+      ]
+    },
+    {
+      "id": "Potato___Healthy",
+      "name": "Healthy",
+      "crop": "Potato",
+      "type": "healthy",
+      "introduction": "Potato plants showing normal growth and development.",
+      "symptoms": [
+        "Leaves and stems are healthy.",
+        "Tubers develop normally."
+      ],
+      "immediateActions": [
+        "Maintain standard care."
+      ],
+      "naturalControl": [
+        "Ensure proper irrigation and soil nutrition."
+      ],
+      "chemicalControl": [
+        "No chemicals needed."
+      ],
+      "prevention": [
+        "Monitor plants regularly for early issues."
+      ]
+    },
+    {
+      "id": "Raspberry___Healthy",
+      "name": "Healthy",
+      "crop": "Raspberry",
+      "type": "healthy",
+      "introduction": "Raspberry plants with no visible disease symptoms.",
+      "symptoms": [
+        "Leaves, stems, and fruits appear healthy.",
+        "No visible damage or discoloration."
+      ],
+      "immediateActions": [
+        "Maintain normal care."
+      ],
+      "naturalControl": [
+        "Provide adequate water and nutrients."
+      ],
+      "chemicalControl": [
+        "No treatment required."
+      ],
+      "prevention": [
+        "Regular monitoring and maintenance."
+      ]
+    },
+    {
+      "id": "Soybean___Healthy",
+      "name": "Healthy",
+      "crop": "Soybean",
+      "type": "healthy",
+      "introduction": "Soybean plants with normal growth and no disease.",
+      "symptoms": [
+        "Leaves are green and healthy.",
+        "Pods develop normally."
+      ],
+      "immediateActions": [
+        "Maintain regular care."
+      ],
+      "naturalControl": [
+        "Ensure proper irrigation and fertilization."
+      ],
+      "chemicalControl": [
+        "No chemicals required."
+      ],
+      "prevention": [
+        "Monitor fields regularly."
+      ]
+    },
+    {
+      "id": "Strawberry___Healthy",
+      "name": "Healthy",
+      "crop": "Strawberry",
+      "type": "healthy",
+      "introduction": "Strawberry plants with no disease or pest issues.",
+      "symptoms": [
+        "Leaves and fruits are healthy.",
+        "Plants develop normally."
+      ],
+      "immediateActions": [
+        "Maintain normal irrigation and care."
+      ],
+      "naturalControl": [
+        "Ensure nutrient-rich soil."
+      ],
+      "chemicalControl": [
+        "No chemicals required."
+      ],
+      "prevention": [
+        "Regular inspection and monitoring."
+      ]
+    },
+    {
+      "id": "Tomato___Healthy",
+      "name": "Healthy",
+      "crop": "Tomato",
+      "type": "healthy",
+      "introduction": "Tomato plants showing normal growth and no visible disease.",
+      "symptoms": [
+        "Leaves, stems, and fruits are healthy.",
+        "Plants grow normally."
+      ],
+      "immediateActions": [
+        "Maintain regular care and watering."
+      ],
+      "naturalControl": [
+        "Ensure proper nutrient and water supply."
+      ],
+      "chemicalControl": [
+        "No chemical treatment required."
+      ],
+      "prevention": [
+        "Monitor plants regularly."
+      ]
+    }
+  ]
+}
+

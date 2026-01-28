@@ -1,0 +1,587 @@
+{
+  "version": 2,
+  "diseases": [
+    {
+      "id": "Apple___Apple_scab",
+      "name": "Apple Scab",
+      "crop": "Apple",
+      "type": "disease",
+      "introduction": "A serious fungal disease that causes scabby spots on leaves and fruit, making apples cracked and deformed.",
+      "symptoms": [
+        "Olive-green, velvety spots on leaves.",
+        "Leaves turn yellow and drop early.",
+        "Fruit develops rough, scabby, dark spots.",
+        "Cracking of the fruit skin."
+      ],
+      "immediateActions": [
+        "Rake and destroy fallen leaves to reduce overwintering spores.",
+        "Prune trees to open the canopy for sunlight and air."
+      ],
+      "naturalControl": [
+        "Apply organic liquid copper soap sprays two weeks before symptoms usually appear.",
+        "Use sulfur sprays or dusts as a preventative fungicide.",
+        "Plant resistant varieties like Honeycrisp or Liberty."
+      ],
+      "chemicalControl": [
+        "Apply fungicides containing Captan or Myclobutanil early in the season.",
+        "Spray Mancozeb protectively before rain events.",
+        "Use systemic fungicides like Difenoconazole during rapid leaf growth."
+      ],
+      "prevention": [
+        "Water in the morning to allow leaves to dry.",
+        "Avoid overcrowding trees."
+      ]
+    },
+    {
+      "id": "Apple___Black_rot",
+      "name": "Apple Black Rot",
+      "crop": "Apple",
+      "type": "disease",
+      "introduction": "A fungus that infects fruit, leaves, and bark. It causes 'Frog-eye' leaf spots and rotting fruit.",
+      "symptoms": [
+        "Purple spots on leaves that enlarge with a light center ('Frog-eye').",
+        "Firm, rotting spots on fruit that turn black and mummified.",
+        "Cankers on limbs."
+      ],
+      "immediateActions": [
+        "Remove mummified fruit from the tree.",
+        "Prune out dead wood and cankers."
+      ],
+      "naturalControl": [
+        "Coat pruning wounds with wound sealer or latex paint.",
+        "Remove dead wood and mummies from the orchard floor.",
+        "Use Kaolin clay sprays to discourage insect vectors."
+      ],
+      "chemicalControl": [
+        "Spray Thiophanate-methyl or Captan.",
+        "Use copper-based fungicides during the dormant season.",
+        "Apply Strobilurin fungicides during fruit development."
+      ],
+      "prevention": [
+        "Avoid injuring the bark.",
+        "Keep the orchard clean of dead wood."
+      ]
+    },
+    {
+      "id": "Cotton___Bacterial_Blight",
+      "name": "Cotton Bacterial Blight",
+      "crop": "Cotton",
+      "type": "disease",
+      "introduction": "Also known as 'Black Arm', this bacterial disease attacks all parts of the cotton plant causing seedling blight and boll rot.",
+      "symptoms": [
+        "Angular, water-soaked spots on leaves.",
+        "Veins turn black ('Black Vein').",
+        "Bolls rot and do not open properly.",
+        "Stem lesions (Black Arm)."
+      ],
+      "immediateActions": [
+        "Remove infected crop residue immediately.",
+        "Do not save seeds from infected plants."
+      ],
+      "naturalControl": [
+        "Soak seeds in cow urine or hot water (56°C for 10 mins) before sowing.",
+        "Spray Neem oil to control insect vectors that create wounds.",
+        "Use biocontrol agents like Pseudomonas fluorescens."
+      ],
+      "chemicalControl": [
+        "Spray Copper Oxychloride (3g/L) mixed with Streptocycline (100ppm).",
+        "Seed treatment with antibiotics (Streptomycin).",
+        "Apply Bordeaux mixture (1%) on stems."
+      ],
+      "prevention": [
+        "Use acid-delinted seeds.",
+        "Grow resistant varieties."
+      ]
+    },
+    {
+      "id": "Mango___Bacterial_Canker",
+      "name": "Mango Bacterial Canker",
+      "crop": "Mango",
+      "type": "disease",
+      "introduction": "A severe disease causing black spots on leaves and fruit, often leading to fruit drop.",
+      "symptoms": [
+        "Water-soaked black spots on leaves surrounded by a yellow halo.",
+        "Cankerous lesions on twigs and branches.",
+        "Fruit develops black cracks producing gum."
+      ],
+      "immediateActions": [
+        "Prune infected twigs and burn them.",
+        "Collect and destroy fallen infected fruits."
+      ],
+      "naturalControl": [
+        "Protect young orchards from strong winds (which cause wounds) by planting windbreaks.",
+        "Spray Neem seed kernel extract (5%).",
+        "Use Mango Ginger extract sprays."
+      ],
+      "chemicalControl": [
+        "Spray Streptocycline (200ppm) alternately with Copper Oxychloride (0.3%).",
+        "Apply Bordeaux mixture (1%) to tree trunks.",
+        "Use Agrimycin-100 during flowering."
+      ],
+      "prevention": [
+        "Use disease-free grafts.",
+        "Maintain orchard hygiene."
+      ]
+    },
+    {
+      "id": "Mango___Anthracnose",
+      "name": "Mango Anthracnose",
+      "crop": "Mango",
+      "type": "disease",
+      "introduction": "The most common mango disease, favored by wet weather, causing blossom blight and fruit rot.",
+      "symptoms": [
+        "Black spots on leaves and flowers.",
+        "Flower blight (flowers turn black and drop).",
+        "Tear-stain patterns on fruit."
+      ],
+      "immediateActions": [
+        "Prune dead twigs before flowering.",
+        "Harvest fruit early if rain is expected."
+      ],
+      "naturalControl": [
+        "Hot water treatment of fruits (52°C for 5-10 mins) after harvest.",
+        "Spray chili-garlic extract.",
+        "Ensure good sunlight penetration into the canopy."
+      ],
+      "chemicalControl": [
+        "Spray Carbendazim (0.1%) or Thiophanate-methyl.",
+        "Apply Propiconazole during flowering.",
+        "Use Copper Oxychloride as a cover spray."
+      ],
+      "prevention": [
+        "Maintain tree spacing for airflow.",
+        "Plant resistant varieties."
+      ]
+    },
+    {
+      "id": "Cauliflower___Black_Rot",
+      "name": "Cauliflower Black Rot",
+      "crop": "Cauliflower",
+      "type": "disease",
+      "introduction": "A bacterial disease characterized by V-shaped yellow lesions on leaf edges.",
+      "symptoms": [
+        "V-shaped yellowing at leaf margins.",
+        "Veins within the yellow area turn black.",
+        "Vascular blackening inside the stem."
+      ],
+      "immediateActions": [
+        "Remove infected leaves immediately.",
+        "Avoid overhead irrigation."
+      ],
+      "naturalControl": [
+        "Crop rotation with non-cruciferous crops for at least 3 years.",
+        "Treat seeds with hot water (50°C for 30 minutes) before planting.",
+        "Use mulch to prevent soil splash."
+      ],
+      "chemicalControl": [
+        "Spray Copper Hydroxide or Copper Oxychloride.",
+        "Apply Streptomycin sulphate on seedlings.",
+        "Use Mancozeb as a preventative measure."
+      ],
+      "prevention": [
+        "Control weeds like wild mustard.",
+        "Use raised beds for better drainage."
+      ]
+    },
+    {
+      "id": "Rice___BrownSpot",
+      "name": "Rice Brown Spot",
+      "crop": "Rice",
+      "type": "disease",
+      "introduction": "A fungal disease often associated with poor soil fertility causing yield loss.",
+      "symptoms": [
+        "Oval, brown spots with a grey or whitish center on leaves.",
+        "Black discoloration on grains.",
+        "Leaves dry out in severe cases."
+      ],
+      "immediateActions": [
+        "Apply potash fertilizer.",
+        "Drain the field if waterlogged."
+      ],
+      "naturalControl": [
+        "Treat seeds with Trichoderma viride (10g/kg) before sowing.",
+        "Apply neem cake to the soil.",
+        "Spray fresh cow dung slurry (20%)."
+      ],
+      "chemicalControl": [
+        "Spray Mancozeb (2.5g/L) or Edifenphos.",
+        "Use Propiconazole at booting stage.",
+        "Seed treatment with Carbendazim."
+      ],
+      "prevention": [
+        "Use balanced fertilization (Correct N:P:K ratio).",
+        "Avoid water stress."
+      ]
+    },
+    {
+      "id": "Rice___LeafBlast",
+      "name": "Rice Leaf Blast",
+      "crop": "Rice",
+      "type": "disease",
+      "introduction": "A destructive fungal disease that causes diamond-shaped lesions and can break the stem.",
+      "symptoms": [
+        "Eye-shaped or diamond-shaped spots with gray centers.",
+        "Stem nodes turn black and break ('Rotten Neck').",
+        "Panicles turn white and empty."
+      ],
+      "immediateActions": [
+        "Keep the field flooded.",
+        "Avoid excess nitrogen fertilizer."
+      ],
+      "naturalControl": [
+        "Spray Pseudomonas fluorescens (0.5%) on foliage.",
+        "Use silica supplements (like burnt rice husk) to strengthen cell walls.",
+        "Destroy infected straw and stubble."
+      ],
+      "chemicalControl": [
+        "Spray Tricyclazole (0.6g/L) immediately upon symptom appearance.",
+        "Use Isoprothiolane or Kasugamycin.",
+        "Apply Carbendazim 50 WP."
+      ],
+      "prevention": [
+        "Plant resistant varieties.",
+        "Plant early to avoid peak disease season."
+      ]
+    },
+    {
+      "id": "Potato___Early_blight",
+      "name": "Potato Early Blight",
+      "crop": "Potato",
+      "type": "disease",
+      "introduction": "A common fungal disease affecting older leaves, causing 'bullseye' spots.",
+      "symptoms": [
+        "Brown spots with concentric rings (target board effect).",
+        "Yellowing of lower leaves.",
+        "Tuber rot (leathery brown spots)."
+      ],
+      "immediateActions": [
+        "Remove infected lower leaves.",
+        "Ensure proper irrigation (avoid stress)."
+      ],
+      "naturalControl": [
+        "Mulch with straw to prevent fungal spores from splashing onto leaves.",
+        "Use Trichoderma harzianum soil applications.",
+        "Spray compost tea or sodium bicarbonate solution."
+      ],
+      "chemicalControl": [
+        "Spray Chlorothalonil or Mancozeb every 7-10 days.",
+        "Apply Azoxystrobin or Pyraclostrobin.",
+        "Use Copper Hydroxide as a protectant."
+      ],
+      "prevention": [
+        "Crop rotation with non-solanaceous crops.",
+        "Use certified seed potatoes."
+      ]
+    },
+    {
+      "id": "Potato___Late_blight",
+      "name": "Potato Late Blight",
+      "crop": "Potato",
+      "type": "disease",
+      "introduction": "The disease that caused the Irish Potato Famine. It destroys crops rapidly in wet weather.",
+      "symptoms": [
+        "Water-soaked dark spots on leaf edges.",
+        "White fungal growth on the underside of leaves.",
+        "Tubers rot with a foul smell."
+      ],
+      "immediateActions": [
+        "Destroy infected plants immediately.",
+        "Stop irrigation."
+      ],
+      "naturalControl": [
+        "Kill vines 2 weeks before harvest to prevent tuber infection.",
+        "Hilling (piling soil) around the base of plants.",
+        "Apply copper-based organic fungicides regularly."
+      ],
+      "chemicalControl": [
+        "Spray Metalaxyl + Mancozeb (Ridomil Gold).",
+        "Use Cymoxanil or Dimethomorph for curative action.",
+        "Apply Chlorothalonil preventatively."
+      ],
+      "prevention": [
+        "Plant resistant varieties.",
+        "Eliminate cull piles (waste potatoes)."
+      ]
+    },
+    {
+      "id": "Tomato___Early_blight",
+      "name": "Tomato Early Blight",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "Affects stems, leaves, and fruit, usually starting on older foliage near the ground.",
+      "symptoms": [
+        "Concentric ring spots ('Bullseye') on leaves.",
+        "Stem cankers.",
+        "Fruit dropping from the stem."
+      ],
+      "immediateActions": [
+        "Stake plants to keep them off the ground.",
+        "Mulch to prevent soil splash."
+      ],
+      "naturalControl": [
+        "Remove lower leaves to improve air circulation.",
+        "Spray baking soda solution (1 tbsp baking soda + 1 tsp oil + 1 gal water).",
+        "Use Serenade (Bacillus subtilis) bio-fungicide."
+      ],
+      "chemicalControl": [
+        "Spray Copper-based fungicides (Copper Soap).",
+        "Use Difenoconazole or Mancozeb.",
+        "Apply Chlorothalonil on a schedule."
+      ],
+      "prevention": [
+        "Rotate crops.",
+        "Avoid overhead watering."
+      ]
+    },
+    {
+      "id": "Tomato___Late_blight",
+      "name": "Tomato Late Blight",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "A rapid killer of tomato plants in cool, wet weather.",
+      "symptoms": [
+        "Greasy, grey-green spots on leaves.",
+        "White mold ring around spots.",
+        "Fruit turns brown and leathery."
+      ],
+      "immediateActions": [
+        "Remove infected plants entirely (do not compost).",
+        "Improve air circulation."
+      ],
+      "naturalControl": [
+        "Use copper sprays as a preventative measure.",
+        "Provide extra space between plants.",
+        "Grow under plastic tunnels to keep foliage dry."
+      ],
+      "chemicalControl": [
+        "Preventative sprays of Chlorothalonil.",
+        "Curative sprays of Dimethomorph or Cymoxanil.",
+        "Use Propamocarb hydrochloride."
+      ],
+      "prevention": [
+        "Keep foliage dry.",
+        "Inspect transplants carefully before buying."
+      ]
+    },
+    {
+      "id": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "name": "Tomato Yellow Leaf Curl Virus",
+      "crop": "Tomato",
+      "type": "disease",
+      "introduction": "A viral disease transmitted by whiteflies that severely stunts growth.",
+      "symptoms": [
+        "Leaves curl upwards and turn yellow margins.",
+        "Plants become stunted/dwarf.",
+        "Flower drop (no fruit set)."
+      ],
+      "immediateActions": [
+        "Remove infected plants immediately.",
+        "Install yellow sticky traps for whiteflies."
+      ],
+      "naturalControl": [
+        "Spray Neem oil or insecticidal soap to control whiteflies.",
+        "Use reflective mulches (silver/aluminum) to repel whiteflies.",
+        "Plant trap crops like marigolds."
+      ],
+      "chemicalControl": [
+        "Control whiteflies with Imidacloprid (soil drench).",
+        "Use Thiamethoxam or Acetamiprid sprays.",
+        "Apply Spiromesifen for whitefly nymphs."
+      ],
+      "prevention": [
+        "Use virus-resistant hybrid seeds.",
+        "Cover seedlings with insect-proof netting."
+      ]
+    },
+    {
+      "id": "Corn_(maize)___Northern_Leaf_Blight",
+      "name": "Corn Northern Leaf Blight",
+      "crop": "Corn (Maize)",
+      "type": "disease",
+      "introduction": "Fungal disease causing large lesions that reduce photosynthesis and yield.",
+      "symptoms": [
+        "Cigar-shaped gray-green lesions on leaves.",
+        "Lesions can be up to 10-15 cm long.",
+        "Leaves wither and die."
+      ],
+      "immediateActions": [
+        "Harvest early if infection is severe late in season."
+      ],
+      "naturalControl": [
+        "Crop rotation with non-grass crops (e.g., soybeans).",
+        "Tillage to bury infected crop residue.",
+        "Use bio-control agents like Trichoderma."
+      ],
+      "chemicalControl": [
+        "Spray Mancozeb or Propiconazole at tasseling stage.",
+        "Use Azoxystrobin or Pyraclostrobin.",
+        "Apply fungicides if lesions appear on the ear leaf."
+      ],
+      "prevention": [
+        "Plant resistant hybrids.",
+        "Ensure balanced fertilization."
+      ]
+    },
+    {
+      "id": "Sugarcane___RedRot",
+      "name": "Sugarcane Red Rot",
+      "crop": "Sugarcane",
+      "type": "disease",
+      "introduction": "The 'Cancer of Sugarcane'. It causes the stalk to rot internally.",
+      "symptoms": [
+        "Reddening of internal tissues with white cross-bands.",
+        "Alcoholic/sour smell from split canes.",
+        "Leaves droop and dry up."
+      ],
+      "immediateActions": [
+        "Remove and burn affected clumps.",
+        "Avoid water flowing from infected to healthy fields."
+      ],
+      "naturalControl": [
+        "Use moist hot air treatment (54°C for 2.5 hours) for seed setts.",
+        "Crop rotation with rice or green manure crops.",
+        "Use Trichoderma viride in the soil."
+      ],
+      "chemicalControl": [
+        "Dip setts in Carbendazim (0.1%) before planting.",
+        "Drench soil with Thiophanate-methyl.",
+        "No effective chemical cure for standing crop once infected."
+      ],
+      "prevention": [
+        "Use disease-free setts.",
+        "Avoid ratooning in infected fields."
+      ]
+    },
+    {
+      "id": "Sugarcane___Rust",
+      "name": "Sugarcane Rust",
+      "crop": "Sugarcane",
+      "type": "disease",
+      "introduction": "Fungal disease appearing as orange/brown pustules on leaves.",
+      "symptoms": [
+        "Elongated orange or brown pustules on leaves.",
+        "Leaves look rusty from a distance.",
+        "Reduced photosynthesis."
+      ],
+      "immediateActions": [
+        "Remove lower infected leaves."
+      ],
+      "naturalControl": [
+        "Avoid excessive nitrogen application.",
+        "Maintain good drainage.",
+        "Remove alternative weed hosts."
+      ],
+      "chemicalControl": [
+        "Spray Propiconazole (1ml/L).",
+        "Use Mancozeb (2g/L).",
+        "Apply Triadimefon."
+      ],
+      "prevention": [
+        "Grow resistant varieties.",
+        "Plant at the correct time to avoid peak humidity."
+      ]
+    },
+    {
+      "id": "Orange___Haunglongbing_(Citrus_greening)",
+      "name": "Citrus Greening (HLB)",
+      "crop": "Orange",
+      "type": "disease",
+      "introduction": "Also known as Yellow Dragon Disease. It is incurable and fatal to citrus trees.",
+      "symptoms": [
+        "Yellow mottling on leaves (asymmetric).",
+        "Fruit stays green at the bottom (inverted color).",
+        "Fruit tastes bitter/salty."
+      ],
+      "immediateActions": [
+        "Remove and destroy the infected tree immediately to save the orchard."
+      ],
+      "naturalControl": [
+        "Release parasitic wasps (Tamarixia radiata) to control the psyllid vector.",
+        "Use guava as an intercrop (repels psyllids).",
+        "Spray Kaolin clay to deter insects."
+      ],
+      "chemicalControl": [
+        "Control the Psyllid vector using Imidacloprid or Dimethoate.",
+        "Apply antibiotics (Oxytetracycline) via trunk injection (temporary relief only).",
+        "Regular foliar insecticide sprays."
+      ],
+      "prevention": [
+        "Use certified disease-free nursery plants.",
+        "Aggressive psyllid control."
+      ]
+    },
+    {
+      "id": "Pumpkin___Powdery_Mildew",
+      "name": "Pumpkin Powdery Mildew",
+      "crop": "Pumpkin",
+      "type": "disease",
+      "introduction": "White powdery fungal growth on leaves that reduces yield.",
+      "symptoms": [
+        "White, talcum-powder like growth on upper and lower leaf surfaces.",
+        "Leaves turn yellow and dry out.",
+        "Exposed fruit gets sunscald."
+      ],
+      "immediateActions": [
+        "Remove severely infected leaves.",
+        "Improve air circulation."
+      ],
+      "naturalControl": [
+        "Spray milk solution (1 part milk to 9 parts water).",
+        "Use Neem oil or Sulfur dust.",
+        "Apply baking soda mixture."
+      ],
+      "chemicalControl": [
+        "Spray Wettable Sulfur.",
+        "Use Karathane or Dinocap.",
+        "Apply Myclobutanil or Azoxystrobin."
+      ],
+      "prevention": [
+        "Plant resistant varieties.",
+        "Space plants properly."
+      ]
+    },
+    {
+      "id": "Tomato___healthy",
+      "name": "Healthy Tomato",
+      "crop": "Tomato",
+      "type": "healthy",
+      "introduction": "Your plant looks healthy and vigorous! Keep up the good work.",
+      "symptoms": [
+        "No visible spots or yellowing.",
+        "Strong green leaves.",
+        "Firm stems."
+      ],
+      "immediateActions": [
+        "Continue regular watering.",
+        "Monitor for pests."
+      ],
+      "naturalControl": [],
+      "chemicalControl": [],
+      "prevention": [
+        "Maintain regular fertilization schedule.",
+        "Keep weeds under control."
+      ]
+    },
+    {
+      "id": "Potato___healthy",
+      "name": "Healthy Potato",
+      "crop": "Potato",
+      "type": "healthy",
+      "introduction": "Excellent! No disease detected on this potato plant.",
+      "symptoms": [
+        "Green, uniform leaves.",
+        "No lesions on stems."
+      ],
+      "immediateActions": [
+        "Ensure soil is earthed up around tubers.",
+        "Water regularly."
+      ],
+      "naturalControl": [],
+      "chemicalControl": [],
+      "prevention": [
+        "Monitor weekly for early signs of blight.",
+        "Ensure tubers are covered with soil."
+      ]
+    }
+  ]
+}
